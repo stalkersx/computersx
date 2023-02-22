@@ -1,0 +1,8 @@
+INFO :
+  |__ command baca isi file dalam ruang lain
+
+COMMAND INSTALL :
+
+COMMAND USE :
+- $ less file.txt
+  |__ baca file diruangan lain

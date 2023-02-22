@@ -1,0 +1,17 @@
+INFO :
+  |__ command copy file/folder ke path
+
+COMMAND INSTALL :
+
+COMMAND USE :
+- $ cp file /path/path
+  $ cp /path/file /path/path
+  $ cp {file,file,file} /path/path
+  $ cp /path/path/{file,file,file} /path/path
+  |__ copy file ke path (use {} jika file lebih dari 1)
+
+- $ cp -rf folder /path/path
+  $ cp -rf /path/file /path/path
+  $ cp -rf {folder,folder,folder} /path/path
+  $ cp -rf /path/path/{folder,folder,folder} /path/path
+  |__ copy folder ke path

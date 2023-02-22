@@ -1,0 +1,8 @@
+INFO :
+  |__ command baca isi file.txt
+
+COMMAND INSTALL :
+
+COMMAND USE :
+- $ cat file.txt
+  |__ baca isi file dengan format .txt

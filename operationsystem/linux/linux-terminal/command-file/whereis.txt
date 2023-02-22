@@ -1,0 +1,9 @@
+INFO :
+  |__ command mencari binary shell (command)
+
+COMMAND INSTALL :
+
+COMMAND USE :
+- $ whereis binary
+  $ whereis bash
+  |__ mencari binary bash di /bin

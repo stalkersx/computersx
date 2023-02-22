@@ -1,0 +1,9 @@
+INSTALL PACKAGE :
+- sudo apt install translate-shell
+- sudo apt install bsdmainutils
+
+PENGGUNAAN :
+trans [options] [:kode negara] [text]
+
+OPTIONS :
+-b	print dengan hasil saja

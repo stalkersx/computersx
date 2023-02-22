@@ -1,0 +1,15 @@
+INFO :
+  |__ command hapus file/folder
+
+COMMAND INSTALL :
+
+COMMAND USE :
+- $ rm file
+  $ rm /path/file
+  $ rm {file,file}
+  |__ hapus file (gunakan {} jika lebih dari 1 file)
+
+- $ rm -rf folder
+  $ rm -rf /path/path/folder
+  $ rm -rf /path/{folder,folder,folder}
+  |__ hapus folder dan subdirectory

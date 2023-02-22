@@ -1,0 +1,9 @@
+INFO :
+  |__ command mencari file/folder
+
+COMMAND INSTALL :
+
+COMMAND USE :
+- $ find filefolder
+  $ find /path/path/filefolder
+  |__ temukan file/folder
