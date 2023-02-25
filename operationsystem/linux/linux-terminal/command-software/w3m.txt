@@ -1,0 +1,16 @@
+INFO :
+  |__ browser internet dari terminal
+
+HOW TO INSTALL :
+- $ sudo apt install w3m
+
+HOW TO USE :
+- $ w3m -M [url]
+  |__ penelusuran mode chrome
+
+HOW TO CHROME MODE :
+shift-H		bantuan
+shift-B		kembali ke halaman sebelumnya
+w		tab kanan
+W		tab kiri
+q		keluar

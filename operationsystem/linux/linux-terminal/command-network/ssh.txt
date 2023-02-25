@@ -1,0 +1,19 @@
+INFO :
+  |__ command key penghubung antara server-client atau ke perangkat lain
+
+COMMAND INSTALL :
+- $ sudo apt install openssh
+
+COMMAND USE :
+- $ ssh-keygen
+  |__ membuat file kunci ssh
+
+- $ ssh-add <filekunci>
+  |__ tambahkan kunci ke ssh
+
+- $ ssh-add -l
+  |__ list kunci terpasang
+
+- $ ssh -p 8022 -L 5901:localhost:5901 <user@ip_wlan0>
+  |__ (jalankan vnc terlebih dahulu) hubungkan vnc remote desktop dengan ssh
+
