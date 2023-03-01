@@ -1,0 +1,15 @@
+INFO
+  |__ browser interface pada terminal
+
+INSTALL
+- $ sudo apt install lynx
+
+COMMAND USE
+- $ lynx https://google.com
+  |__ penelusuran google
+
+OPSI CONTROL
+- panah atas --> scroll up
+- panah bawah --> scroll down
+- panah kiri --> kehalaman sebelumnya
+- panah kanan --> enter
